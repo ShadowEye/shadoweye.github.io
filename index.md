@@ -1,13 +1,6 @@
-## Welcome to ShadowEye.is
-
-ShadowEye is a group of security professionals who provide analysis of nation-state and other advanced threat actors.
-
-### Posts
-Links go here
-
-### Donate
-Bitcoin: ```1GRjxdtim2pDJeFTj4VtUYhqh3hGVPQoif```  
-Ethereum: ```0x7317a2b7a631a1811d629ea22997be1743d4f972```
-
-### Contact
-Contact Details go here.
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
